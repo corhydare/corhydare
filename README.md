@@ -5,7 +5,7 @@
 
 - I’m currently studying in the **UW Coding Bootcamp**
 
-- My portfolio website, with featured projects are available at [https://corhydare.github.io/Chapter_2_The_Portfolio/](https://corhydare.github.io/Chapter_2_The_Portfolio/)
+- My portfolio website, with featured projects are available at [https://corhydare.github.io/aperture/](https://corhydare.github.io/aperture/)
 
 - Resume in PDF format [https://github.com/corhydare/Chapter_2_The_Portfolio/blob/main/resume.pdf](https://github.com/corhydare/Chapter_2_The_Portfolio/blob/main/resume.pdf)
 
