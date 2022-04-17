@@ -7,7 +7,6 @@
 
 - My portfolio website, with featured projects are available at [https://corhydare.github.io/aperture/](https://corhydare.github.io/aperture/)
 
-- Resume in PDF format [https://github.com/corhydare/Chapter_2_The_Portfolio/blob/main/resume.pdf](https://github.com/corhydare/Chapter_2_The_Portfolio/blob/main/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
